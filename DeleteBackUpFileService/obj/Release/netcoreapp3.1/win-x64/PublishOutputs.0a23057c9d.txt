@@ -1,0 +1,4 @@
+C:\Users\Toshiba\Desktop\WorkerServicePublish\appsettings.Development.json
+C:\Users\Toshiba\Desktop\WorkerServicePublish\appsettings.json
+C:\Users\Toshiba\Desktop\WorkerServicePublish\DeleteBackUpFileService.pdb
+C:\Users\Toshiba\Desktop\WorkerServicePublish\DeleteBackUpFileService.exe
